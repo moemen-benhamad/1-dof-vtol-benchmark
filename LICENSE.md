@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2023] [Yassine Fendi]
+Copyright (c) [2023] [Yassine Fendi, Moemen Ben Hamad, Bilel Bekalti, Khalil El Amine]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
