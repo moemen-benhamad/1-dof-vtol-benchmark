@@ -55,10 +55,10 @@ We welcome contributions from everyone! Please see our CONTRIBUTING.md file for 
 
 If you have any questions or need help figuring out something, you can contact us anytime:
 
-- Moemen Ben Hamad: [LinkedIn](https://www.linkedin.com/in/moemen-benhamad/) | [Email](mailto:moemen.benhamad@insat.ucar.tn)
-- Bilel Bekalti: [LinkedIn](https://www.linkedin.com/in/bilel-bekalti-742459169/) | [Email](mailto:bilel.bekalti@insat.ucar.tn)
-- Khalil El Amine: [LinkedIn](https://www.linkedin.com/in/khalil-el-amine/) | [Email](mailto:khalil.elamine@insat.ucar.tn)
-- Fendi Yassine: [LinkedIn](https://www.linkedin.com/in/yassine-fendi-25141a241/) | [Email](mailto:yassine.fendi@insat.ucar.tn)
+- Moemen Ben Hamad: [LinkedIn](https://www.linkedin.com/in/moemen-benhamad/) | moemen.benhamad@insat.ucar.tn
+- Bilel Bekalti: [LinkedIn](https://www.linkedin.com/in/bilel-bekalti-742459169/) | bilel.bekalti@insat.ucar.tn
+- Khalil El Amine: [LinkedIn](https://www.linkedin.com/in/khalil-el-amine/) | khalil.elamine@insat.ucar.tn
+- Fendi Yassine: [LinkedIn](https://www.linkedin.com/in/yassine-fendi-25141a241/) | mailto:yassine.fendi@insat.ucar.tn
 
 ## License
 
