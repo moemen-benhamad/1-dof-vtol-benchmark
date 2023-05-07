@@ -49,7 +49,7 @@ To run the project, follow the steps in the Installation section. Once the ESP32
 
 ## Contributing
 
-We welcome contributions from everyone! Please see our CONTRIBUTING.md file for details (will be updated soon).
+We welcome contributions from everyone! Please see our `CONTRIBUTING.md` file for details (will be updated soon).
 
 ## Contact Us
 
