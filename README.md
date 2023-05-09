@@ -4,6 +4,7 @@ This project is a Computer Aided Design (CAD) project where we designed and cont
 
 ## Table of Contents
 
+- [Technical details](#technical-details)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
