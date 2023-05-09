@@ -2,8 +2,6 @@
 
 This project is a Computer Aided Design (CAD) project where we designed and controlled a one degree-of-freedom (1 DOF) Vertical Take-Off and Landing (VTOL) benchmark. We made the mechanical design using Solidworks and we built the physical model using cardboard and designed a circuit on Proteus ISIS that connects two mini motors and a gyroscope to an ESP32 microcontroller. The ESP32 acts as a Wi-Fi server and sends the acquired data over TCP to LabVIEW, where the received data is visualized, PID is calculated, and the motors are controlled. We have a manual mode without the use of PID, and we manually tuned the PID coefficients to achieve a good step response.
 
-![demo_video](video/demo_vtol.mp4)
-
 ## Table of Contents
 
 - [Technical details](#technical-details)
