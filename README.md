@@ -10,6 +10,11 @@ This project is a Computer Aided Design (CAD) project where we designed and cont
 - [Contact Us](#contact-us)
 - [License](#license)
 
+## Technical details
+
+### Communication diagram
+![Communication diagram](diagrams/comm_diagram.png)
+
 ## Getting Started
 
 ### Prerequisites
