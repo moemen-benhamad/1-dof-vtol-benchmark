@@ -18,6 +18,16 @@ https://github.com/Moemen-02/1-dof-vtol-benchmark/assets/89520188/708dc6f2-c66b-
 ### Communication diagram
 ![Communication diagram](diagrams/comm_diagram.png)
 
+### SW model
+![SW model](diagrams/sw_model.png)
+
+### Circuit diagram
+![Circuit diagram](diagrams/proteus_isis_circuit.png)
+
+### LabVIEW
+![Font panel](diagrams/labview_front_panel.png)
+![diagram](diagrams/labview_code.png)
+
 ## Getting Started
 
 ### Prerequisites
