@@ -65,7 +65,7 @@ If you have any questions or need help figuring out something, you can contact u
 - Moemen Ben Hamad: [LinkedIn](https://www.linkedin.com/in/moemen-benhamad/) | moemen.benhamad@insat.ucar.tn
 - Bilel Bekalti: [LinkedIn](https://www.linkedin.com/in/bilel-bekalti-742459169/) | bilel.bekalti@insat.ucar.tn
 - Khalil El Amine: [LinkedIn](https://www.linkedin.com/in/khalil-el-amine/) | khalil.elamine@insat.ucar.tn
-- Fendi Yassine: [LinkedIn](https://www.linkedin.com/in/yassine-fendi-25141a241/) | yassine.fendi@insat.ucar.tn
+- Yassine Fendi: [LinkedIn](https://www.linkedin.com/in/yassine-fendi-25141a241/) | yassine.fendi@insat.ucar.tn
 
 ## License
 
