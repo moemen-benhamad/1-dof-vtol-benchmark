@@ -17,7 +17,7 @@ https://github.com/Moemen-02/1-dof-vtol-benchmark/assets/89520188/708dc6f2-c66b-
 
 ![Communication diagram](diagrams/comm_diagram.png)
 
-Note: The detailed diagrams can be found in the `diagrams/` directory.
+<font size="2"> **Note:** The detailed diagrams can be found in the `diagrams/` directory.</font>
 
 ## Getting Started
 
@@ -49,8 +49,6 @@ This repository contains the following files and directories:
 - `ESP32_code/`: Contains the code for the ESP32 microcontroller
 - `LabVIEW_VI/`: Contains the LabVIEW VI used for data visualization and control
 - `video/`: Contains the video of the benchmark showing the step response
-
-<!-- Note: The diagrams of the Solidworks model, Proteus ISIS diagram, and communication diagram will be added to the README later. -->
 
 ### Running the project
 
