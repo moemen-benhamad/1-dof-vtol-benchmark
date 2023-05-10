@@ -26,7 +26,7 @@ https://github.com/Moemen-02/1-dof-vtol-benchmark/assets/89520188/708dc6f2-c66b-
 
 ### LabVIEW
 ![Font panel](diagrams/labview_front_panel.png)
-![diagram](diagrams/labview_code.png)
+![diagram](diagrams/labview_code.jpg)
 
 ## Getting Started
 
