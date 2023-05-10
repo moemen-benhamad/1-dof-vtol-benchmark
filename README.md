@@ -6,20 +6,18 @@ https://github.com/Moemen-02/1-dof-vtol-benchmark/assets/89520188/708dc6f2-c66b-
 
 ## Table of Contents
 
-- [Technical details](#technical-details)
+- [Overview](#Overview)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact Us](#contact-us)
 - [License](#license)
 
-## Technical details
+## Overview
 
-### Communication diagram
 ![Communication diagram](diagrams/comm_diagram.png)
 
-### Circuit diagram
-![Circuit diagram](diagrams/proteus_isis_circuit.png)
+Note: The detailed diagrams can be found in the `diagrams/` directory.
 
 ## Getting Started
 
